@@ -113,13 +113,13 @@ function showContent(content, element, id) {
     let bgImage = "";
     switch (content) {
         case 'personal':
-            bgImage = `/img/${id}_1.JPG`;
+            bgImage = `https://jeem-31.github.io/ITEL203_StudentPortfolio_Beato-Gahi-Jaqueca-Reyes-Ybardolaza/img/${id}_1.JPG`;
             break;
         case 'skills':
-            bgImage = `/img/${id}_3.JPG`;
+            bgImage = `https://jeem-31.github.io/ITEL203_StudentPortfolio_Beato-Gahi-Jaqueca-Reyes-Ybardolaza/img/${id}_3.JPG`;
             break;
         case 'contacts':
-            bgImage = `/img/${id}_2.JPG`;
+            bgImage = `https://jeem-31.github.io/ITEL203_StudentPortfolio_Beato-Gahi-Jaqueca-Reyes-Ybardolaza/img/${id}_2.JPG`;
             break;
     }
 
